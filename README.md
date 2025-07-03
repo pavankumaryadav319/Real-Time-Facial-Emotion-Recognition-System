@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Real-Time Facial Emotion Recognition System
 
 This project is a real-time facial emotion recognition system that uses a Convolutional Neural Network (CNN) and OpenCV to detect and classify facial expressions from live webcam video.
@@ -20,7 +20,7 @@ The system classifies facial expressions into emotions such as:
 - Fear
 - Disgust
 
-<<<<<<< HEAD
+
 ## 🚀 Features
 =======
 ## Features
@@ -30,7 +30,6 @@ The system classifies facial expressions into emotions such as:
 - CNN model trained on the FER-2013 dataset
 - Easy to set up and run locally
 
-<<<<<<< HEAD
 ## 🛠️ Technologies Used
 =======
 ## Technologies Used
@@ -41,7 +40,6 @@ The system classifies facial expressions into emotions such as:
 - NumPy
 - FER-2013 Dataset
 
-<<<<<<< HEAD
 ## 📦 Setup Instructions
 =======
 ## Setup Instructions
@@ -62,7 +60,7 @@ The system classifies facial expressions into emotions such as:
    python video_emotion_color_demo.py
    ```
 
-<<<<<<< HEAD
+
 ## 🧠 Training the Classifier
 =======
 ## Training the Classifier
@@ -89,7 +87,6 @@ Inspired by the original work of oarriaga: [face_classification GitHub](https://
 
 ---
 
-<<<<<<< HEAD
 Made with ❤️ for AI, deep learning, and computer vision.
 =======
 Made with  for AI, deep learning, and computer vision.
